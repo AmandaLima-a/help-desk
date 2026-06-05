@@ -80,7 +80,7 @@ help-desk/
 
 Vídeo demonstrando as principais funcionalidades do sistema:
 
-![Demo](./videos/demo-video.mp4)
+https://drive.google.com/file/d/1eQ7Lban4xP29UGeLdvLdrkeh2ZZHDiEC/view?usp=sharing
 
 ## 👩‍💻 Autora
 
