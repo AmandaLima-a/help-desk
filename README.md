@@ -50,6 +50,10 @@ Durante o desenvolvimento deste projeto foram praticados conceitos como:
 ```text
 help-desk/
 │
+└── imagens/
+    ├── tela-principal.png
+    ├── cadastro-chamado.png
+    └── lista-chamados.png
 ├── index.html
 ├── style.css
 ├── script.js
