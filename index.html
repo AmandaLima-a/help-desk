@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Help Desk</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Sistema de Chamados</h1>
+
+        <div class="botoes">
+            <button onclick="abrirFormulario()">Novo chamado</button>
+        </div>
+
+        <div id="formulario" style="display: none;">
+            <input type="text" id="titulo" placeholder="Título" />
+            <textarea id="descricao"></textarea>
+
+            <select id="categoria">
+                <option>Hardware</option>
+                <option>Software</option>
+                <option>Rede</option>
+            </select>
+
+            <select id="prioridade">
+                <option value="baixa">Baixa</option>
+                <option value="media">Média</option>
+                <option value="alta">Alta</option>''
+            </select>
+
+            <button onclick="criarChamado()">Salvar</button>
+        </div>
+
+        <div id="listaChamados"></div>
+    </div>
+
+<script src="script.js"></script>
+</body>
+</html>
