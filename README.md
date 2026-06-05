@@ -10,14 +10,14 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais 
 
 ## 🚀 Funcionalidades
 
-- ✅ Criar chamados
-- ✅ Definir categoria
-- ✅ Definir prioridade
-- ✅ Visualizar chamados cadastrados
-- ✅ Concluir chamados
-- ✅ Excluir chamados
-- ✅ Armazenamento em LocalStorage
-- ✅ Interface responsiva
+- Criar chamados  ✅
+- Definir categoria ✅ 
+- Definir prioridade ✅ 
+- Visualizar chamados cadastrados ✅ 
+- Concluir chamados ✅ 
+- Excluir chamados  ✅ 
+- Armazenamento em LocalStorage ✅ 
+- Interface responsiva ✅ 
 
 ## 🛠️ Tecnologias utilizadas
 
